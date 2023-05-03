@@ -1,1 +1,1 @@
-# dz5.1
+Создать классы Human, Pilot, Teacher
